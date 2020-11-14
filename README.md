@@ -1,0 +1,5 @@
+just run:
+
+```
+./start
+```

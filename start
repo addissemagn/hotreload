@@ -1,0 +1,7 @@
+#!/bin/sh
+
+python -m venv venv             # create virtual environment
+source venv/bin/activate        # activate
+pip install -r requirements.txt # install packages
+
+python hot_reload.py
