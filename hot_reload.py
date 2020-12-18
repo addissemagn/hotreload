@@ -5,7 +5,7 @@ from hotreload import Loader
 
 
 if __name__ == "__main__":
-    script = Loader("main.py")
+    script = Loader("problems.py")
 
     while True:
         # if script has been modified since last poll
